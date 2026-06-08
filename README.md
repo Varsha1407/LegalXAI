@@ -1,0 +1,1 @@
+An Explainable AI framework for Indian legal judgment prediction using Legal-BERT, SHAP, FLAN-T5, and FAISS, enabling transparent case classification, semantic retrieval, and fairness-aware judicial decision support
